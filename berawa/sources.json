@@ -1,0 +1,45 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://williammartin.es/",
+ "read_at": "2026-10-30T09:15:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://williammartin.es/",
+   "sha256": "841a3696af82a61146ccfb71d43e994e545ce9dcdc0a6bc503b8fc13fe09ae2b",
+   "chars": 2122
+  },
+  {
+   "url": "https://williammartin.es/apartamentos/",
+   "sha256": "9feb5046ae3a42fd5f2e2ac1b2a74c1118be6ff37f0c3c84972575342d22c506",
+   "chars": 8276
+  },
+  {
+   "url": "https://williammartin.es/contacto/",
+   "sha256": "16e86e373cf77bc59958bf5af338d742075f4f6c87e911b81f8b753c6e8bd6b5",
+   "chars": 1288
+  },
+  {
+   "url": "https://williammartin.es/faq/",
+   "sha256": "0d7d77bf56f2c57fa137ef7fe8626f40e10ae5fb654f8f1ffb60d872794b52fd",
+   "chars": 3487
+  },
+  {
+   "url": "https://williammartin.es/historia/",
+   "sha256": "baa434e913bb02ab16ddf13bea151d6bed9086dfa7021e55a195777533ada405",
+   "chars": 2893
+  },
+  {
+   "url": "https://williammartin.es/servicios/",
+   "sha256": "dba278774e494029b509fe6b577faf9285d725d8735fd29ebc57e26602e55dcb",
+   "chars": 1729
+  }
+ ],
+ "other_pages_read": [
+  "https://williammartin.es/author/admin/",
+  "https://williammartin.es/aviso-legal/",
+  "https://williammartin.es/explora-huelva/",
+  "https://williammartin.es/politica-de-cookies/",
+  "https://williammartin.es/politica-de-privacidad/"
+ ]
+}
