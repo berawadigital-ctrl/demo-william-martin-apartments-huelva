@@ -1,0 +1,447 @@
+{
+ "url": "http://127.0.0.1:34351/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué apartamentos tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay apartamentos de 1 y 2 habitaciones, todos exteriores: de 1 habitación (2-4 personas, 30-32 m²), de 1 habitación premium (2-4, 34-44 m²),"
+    },
+    {
+     "q": "¿Cómo se entra al apartamento?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Con Smartphone Key: accedes a tu apartamento de forma segura a través de la App Hoomvip."
+    },
+    {
+     "q": "¿Cuál es el horario de check-in y check-out?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Según su FAQ, el horario de check-in y check-out es hasta las 12:00 horas; si necesitas otro horario, escribe a apartamentos@williammartin.e"
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, wifi gratis de alta velocidad."
+    },
+    {
+     "q": "¿Tienen cocina?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, todos los apartamentos tienen cocina completamente equipada: cafetera, tostadora, microondas, nevera, hervidor y utensilios."
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No, no se permiten mascotas en los apartamentos."
+    },
+    {
+     "q": "¿Tenéis cuna para el bebé?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, hay cunas sin coste adicional, bajo petición."
+    },
+    {
+     "q": "¿Dónde están los apartamentos?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "En la calle Vázquez López, 2, en el centro de Huelva."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en su web (botón Reservar), por teléfono al +34 614 233 630 o por correo a apartamentos@williammartin.es. Este asistente no "
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en su web (botón Reservar), por teléfono al +34 614 233 630 o por correo a apartamentos@williammartin.es. Este asistente no "
+    },
+    {
+     "q": "¿Cuál es la política de cancelación?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes cancelar sin coste hasta 48 horas antes de tu llegada; las cancelaciones con menos antelación pueden tener cargos."
+    },
+    {
+     "q": "¿Hay ascensor?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sí: el edificio tiene 4 plantas con ascensor, y algunos apartamentos están adaptados para personas con movilidad reducida."
+    },
+    {
+     "q": "¿Hay atención médica?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí, hay servicio médico de Quirónsalud disponible las 24 horas, los 7 días de la semana."
+    },
+    {
+     "q": "¿Por qué se llama William Martin?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Por el Mayor William Martin, «el hombre que nunca existió»: el nombre ficticio dado a un cadáver en la Operación Mincemeat de la Segunda Gue"
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 614 233 630 · apartamentos@williammartin.es."
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 614 233 630 · apartamentos@williammartin.es."
+    }
+   ],
+   "chips": [
+    "¿Qué apartamentos tenéis?",
+    "¿Cómo se entra al apartamento?",
+    "¿Admitís mascotas?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat2"
+   ],
+   "chat": [
+    {
+     "q": "Which apartments do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 1- and 2-bedroom apartments, all exterior: 1-bedroom (2-4 people, 30-32 m²), 1-bedroom premium (2-4, 34-44 m²), 2-bedroom with two"
+    },
+    {
+     "q": "How do I get into the apartment?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "With Smartphone Key: you access your apartment securely through the Hoomvip app."
+    },
+    {
+     "q": "What are the check-in and check-out times?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "According to their FAQ, check-in and check-out are until 12:00; if you need a different time, write to apartamentos@williammartin.es and the"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, free high-speed wifi."
+    },
+    {
+     "q": "Is there a kitchen?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, every apartment has a fully equipped kitchen: coffee maker, toaster, microwave, fridge, kettle and utensils."
+    },
+    {
+     "q": "Do you accept pets?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No, pets are not allowed in the apartments."
+    },
+    {
+     "q": "Do you have a cot for the baby?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Yes, cots are available at no extra cost, on request."
+    },
+    {
+     "q": "Where are the apartments?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "At Calle Vázquez López 2, in the centre of Huelva."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book on their website (Book button), by phone on +34 614 233 630 or by email to apartamentos@williammartin.es. This assistant does n"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book on their website (Book button), by phone on +34 614 233 630 or by email to apartamentos@williammartin.es. This assistant does n"
+    },
+    {
+     "q": "What is the cancellation policy?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can cancel free of charge up to 48 hours before arrival; later cancellations may incur charges."
+    },
+    {
+     "q": "Is there a lift?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Yes: the building has 4 floors with a lift, and some apartments are adapted for people with reduced mobility."
+    },
+    {
+     "q": "Is there medical assistance?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Yes, there is a Quirónsalud medical service available 24 hours a day, 7 days a week."
+    },
+    {
+     "q": "Why is it called William Martin?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "After Major William Martin, “the man who never was”: the fictitious name given to a body in Operation Mincemeat during the Second World War,"
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 614 233 630 · apartamentos@williammartin.es."
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 614 233 630 · apartamentos@williammartin.es."
+    }
+   ],
+   "chips": [
+    "Which apartments do you have?",
+    "How do I get into the apartment?",
+    "Do you accept pets?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat2"
+   ],
+   "chat": [
+    {
+     "q": "Quels appartements avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a des appartements de 1 et 2 chambres, tous extérieurs : 1 chambre (2-4 personnes, 30-32 m²), 1 chambre premium (2-4, 34-44 m²), 2 cham"
+    },
+    {
+     "q": "Comment entre-t-on dans l'appartement ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Avec Smartphone Key : vous accédez à votre appartement en toute sécurité via l’app Hoomvip."
+    },
+    {
+     "q": "Quels sont les horaires d’arrivée et de départ ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Selon leur FAQ, l’arrivée et le départ se font jusqu’à 12:00 ; pour un autre horaire, écrivez à apartamentos@williammartin.es."
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, wifi gratuit haut débit."
+    },
+    {
+     "q": "Y a-t-il une cuisine ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, tous les appartements ont une cuisine entièrement équipée : cafetière, grille-pain, micro-ondes, réfrigérateur, bouilloire et ustensile"
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Non, les animaux ne sont pas admis dans les appartements."
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Oui, des lits bébé sont disponibles sans frais, sur demande."
+    },
+    {
+     "q": "Où se trouvent les appartements ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Calle Vázquez López 2, au centre de Huelva."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur leur site (bouton Réserver), par téléphone au +34 614 233 630 ou par e-mail à apartamentos@williammartin.es. Cet as"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur leur site (bouton Réserver), par téléphone au +34 614 233 630 ou par e-mail à apartamentos@williammartin.es. Cet as"
+    },
+    {
+     "q": "Quelle est la politique d'annulation ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Annulation sans frais jusqu’à 48 heures avant l’arrivée ; au-delà, des frais peuvent s’appliquer."
+    },
+    {
+     "q": "Y a-t-il un ascenseur ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Oui : l’immeuble compte 4 étages avec ascenseur, et certains appartements sont adaptés aux personnes à mobilité réduite."
+    },
+    {
+     "q": "Y a-t-il une assistance médicale ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Oui, un service médical Quirónsalud est disponible 24 h/24, 7 j/7."
+    },
+    {
+     "q": "Pourquoi s’appelle-t-il William Martin ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "En référence au major William Martin, « l’homme qui n’a jamais existé » : le nom fictif donné à un cadavre lors de l’opération Mincemeat pen"
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 614 233 630 · apartamentos@williammartin.es."
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 614 233 630 · apartamentos@williammartin.es."
+    }
+   ],
+   "chips": [
+    "Quels appartements avez-vous ?",
+    "Comment entre-t-on dans l'appartement ?",
+    "Acceptez-vous les animaux ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat2"
+   ],
+   "chat": [
+    {
+     "q": "Welche Apartments gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt Apartments mit 1 und 2 Schlafzimmern, alle nach außen gelegen: 1 Schlafzimmer (2-4 Personen, 30-32 m²), 1 Schlafzimmer Premium (2-4,"
+    },
+    {
+     "q": "Wie komme ich ins Apartment?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Mit Smartphone Key: Sie betreten Ihr Apartment sicher über die App Hoomvip."
+    },
+    {
+     "q": "Wann sind Check-in und Check-out?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Laut FAQ sind Check-in und Check-out bis 12:00 Uhr; für andere Zeiten schreiben Sie an apartamentos@williammartin.es."
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, kostenloses Highspeed-WLAN."
+    },
+    {
+     "q": "Gibt es eine Küche?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja, alle Apartments haben eine voll ausgestattete Küche: Kaffeemaschine, Toaster, Mikrowelle, Kühlschrank, Wasserkocher und Utensilien."
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Nein, Haustiere sind in den Apartments nicht erlaubt."
+    },
+    {
+     "q": "Haben Sie ein Kinderbett?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Ja, Kinderbetten gibt es ohne Aufpreis auf Anfrage."
+    },
+    {
+     "q": "Wo befinden sich die Apartments?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "In der Calle Vázquez López 2, im Zentrum von Huelva."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können auf der Website (Schaltfläche Buchen), telefonisch unter +34 614 233 630 oder per E-Mail an apartamentos@williammartin.es buchen."
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können auf der Website (Schaltfläche Buchen), telefonisch unter +34 614 233 630 oder per E-Mail an apartamentos@williammartin.es buchen."
+    },
+    {
+     "q": "Wie sind die Stornobedingungen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Kostenlose Stornierung bis 48 Stunden vor Anreise; spätere Stornierungen können Gebühren verursachen."
+    },
+    {
+     "q": "Gibt es einen Aufzug?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Ja: Das Gebäude hat 4 Etagen mit Aufzug, und einige Apartments sind für Menschen mit eingeschränkter Mobilität angepasst."
+    },
+    {
+     "q": "Gibt es ärztliche Betreuung?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ja, es gibt einen ärztlichen Dienst von Quirónsalud, rund um die Uhr an 7 Tagen die Woche."
+    },
+    {
+     "q": "Warum heißt es William Martin?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Nach Major William Martin, „dem Mann, den es nie gab“: dem fiktiven Namen einer Leiche in der Operation Mincemeat im Zweiten Weltkrieg, eine"
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 614 233 630 · apartamentos@williammartin.es."
+    },
+    {
+     "q": "Gibt es ein Fitnessstudio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 614 233 630 · apartamentos@williammartin.es."
+    }
+   ],
+   "chips": [
+    "Welche Apartments gibt es?",
+    "Wie komme ich ins Apartment?",
+    "Sind Haustiere erlaubt?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

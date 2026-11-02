@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-william-martin-apartments-huelva",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-30T09:14:00+01:00",
+ "updated_at": "2026-10-30T09:30:00+01:00",
+ "business": {
+  "name": "William Martin Apartments",
+  "legal_name": "CASATO ONUBA, S.L. (CIF del pie de su web)",
+  "registry_ids": [
+   "B10593036",
+   "A/HU/00196"
+  ],
+  "url": "https://williammartin.es/",
+  "domain": "williammartin.es",
+  "municipality": "Huelva",
+  "province": "Huelva",
+  "address": "Calle Vázquez López 2 · Huelva",
+  "phones": [
+   "+34 614 233 630"
+  ],
+  "emails": [
+   "apartamentos@williammartin.es"
+  ],
+  "sector": "edificio de apartamentos turísticos en el centro de Huelva"
+ },
+ "rating": {
+  "value": 4.7,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/William+Martin+Apartments/@37.2564849,-6.9514036,17z/data=!3m1!4b1!4m6!3m5!1s0xd11d183858bac5d:0xbc4e3296c2073c36!8m2!3d37.2564849!4d-6.9514036!16s%2Fg%2F11lyw5p8n0",
+  "date": "2026-10-29T16:36:07+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://booking.avirato.com/?code=46856891",
+  "note": "motor de reservas real de su web (booking.williammartin.es redirige a Avirato, code 46856891), HTTP 200 comprobado el 30/10/2026 con lang es/en/fr/de."
+ },
+ "audit_original": {
+  "url": "https://williammartin.es/",
+  "date": "2026-10-30T09:08:42+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
